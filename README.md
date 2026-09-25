@@ -1,6 +1,7 @@
 # Implementación del Patrón de Diseño Estrategia (Strategy) en Java
 
 **Materia**: Ingenieria de software 3
+
 **Nombre**: Miguel Perez Ojeda
 
 **Caso de estudio:** Sistema de navegación para viajeros ocasionales.
